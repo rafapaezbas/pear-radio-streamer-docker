@@ -1,4 +1,4 @@
-FROM node:16.17.1
+FROM node:20.14
 
 # Install pear-radio package globally
 RUN npm install -g pear-radio
